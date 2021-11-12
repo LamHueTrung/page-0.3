@@ -61,4 +61,10 @@
     .container__note {
         margin-left: 24px;
     }
+    .BT__output-1 {
+        width: 50%;
+    }
+    .BT__noi-dung {
+        width: 50%;
+    }
 }
