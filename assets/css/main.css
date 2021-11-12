@@ -5,6 +5,11 @@
     z-index: 1;
     float: left;
 }
+.header_list-mobile {
+    list-style: none;
+    padding: 0;
+}
+
 .header_list {
     list-style: none;
     font-size: 20px;
@@ -184,8 +189,6 @@
 .content_LT {
     margin: 0 20px 0 0;
     width: 30%;
-    height: 800px;
-    overflow: auto;
 }
 .content__HD {
     width: 70%;
@@ -197,12 +200,12 @@
 }
 .BT__noi-dung {
     display: -webkit-box;
-    font-size: 18px;
+    font-size: 14px;
     margin: 5px 0;
 }
 .BT__noi-dung--TD {
     display: -webkit-box;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 600;
 }
 .BT__output {
