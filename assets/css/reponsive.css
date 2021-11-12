@@ -47,9 +47,6 @@
         margin: 0 20px;
         width: 90%;
     }
-    .container {
-        width: 100%;
-    }
     .container h1 {
         margin-left: 25px;
         font-size: 25px;
@@ -64,17 +61,4 @@
     .container__note {
         margin-left: 24px;
     }
-    .BT__output-1 {
-        max-width: 90%;
-    }
-    .BT__noi-dung {
-        width: 90%;
-    }
-    .content__BT {
-        width: 90%;
-    }
-    .content__HD {
-        width: 83%;
-    }
 }
-
