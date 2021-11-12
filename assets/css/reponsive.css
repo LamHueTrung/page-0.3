@@ -42,6 +42,7 @@
     }
     .gird__column-2 {
         display: block;
+        width: 62%;
     }
     .content_LT {
         margin: 0 20px;
