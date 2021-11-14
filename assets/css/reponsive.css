@@ -15,7 +15,6 @@
     .container {
         position: absolute;
         margin: 50px 0 0 0;
-        width: 100%;
     }
     .header-menu {
         display: block;
@@ -46,11 +45,10 @@
     }
     .gird__column-2 {
         display: block;
-        width: 100%;
     }
     .content_LT {
         margin: 0 20px;
-        width: 100%;
+        width: 90%;
     }
     .container h1 {
         margin-left: 25px;
@@ -66,12 +64,4 @@
     .container__note {
         margin-left: 24px;
     }
-    .BT__output-1 {
-        max-width: 100%;
-    }
-    .BT__noi-dung {
-        width: 100%;
-    }
-    
-    
 }
